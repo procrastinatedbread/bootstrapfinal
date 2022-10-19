@@ -1,0 +1,60 @@
+.hero {
+  background-image: url(/img/background.jpg);
+  height: 800px;
+}
+.ab {
+  background-color: red;
+  color: white;
+  padding: 4px 12px;
+}
+#lang {
+  background-color: black;
+  color: white;
+  padding: 4px 12px;
+}
+.hdiv {
+  height: 635px;
+}
+.hero-txt {
+  font-size: 4rem;
+  font-weight: 750px;
+  color: white;
+}
+.hero-min {
+  font-size: 1.45rem;
+  font-weight: 450px;
+  color: white;
+}
+.def {
+  background-color: red;
+  color: white;
+  padding: 10px 70px;
+  font-size: 25px;
+}
+.xyz {
+  padding: 16px 200px;
+}
+hr {
+  border: 10px solid rgb(53, 52, 52);
+}
+.cw {
+  color: white;
+}
+.sd {
+  height: 450px;
+  background-color: black;
+}
+.xx {
+  margin-top: 150px;
+}
+tv {
+  position: relative;
+}
+vid {
+  position: absolute;
+  /* height: 350px;
+
+  width: 450px; */
+  top: 40px;
+  left: 40px;
+}
