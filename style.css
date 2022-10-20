@@ -47,14 +47,28 @@ hr {
 .xx {
   margin-top: 150px;
 }
-tv {
+.tv {
   position: relative;
 }
-vid {
+.vid {
   position: absolute;
-  /* height: 350px;
+  height: 300px;
 
-  width: 450px; */
-  top: 40px;
-  left: 40px;
+  width: 350px;
+
+  top: 45px;
+  left: 200px;
+}
+.as {
+  background-color: black;
+  color: white;
+}
+.sdf {
+  height: 650px;
+  background-color: black;
+}
+.xef {
+  margin: 0;
+  background-color: black;
+  color: white;
 }
