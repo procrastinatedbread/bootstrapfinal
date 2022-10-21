@@ -1,6 +1,14 @@
+.hero,
+.secone,
+.sectwo,
+.secthree,
+.secfour,
+.sdf {
+  border-bottom: 7px solid rgb(78, 78, 78);
+}
 .hero {
   background-image: url(/img/background.jpg);
-  height: 800px;
+  height: 720px;
 }
 .ab {
   background-color: red;
@@ -47,28 +55,79 @@ hr {
 .xx {
   margin-top: 150px;
 }
+.tvw {
+  position: relative;
+  z-index: 2;
+}
+.sacredimg {
+  position: absolute;
+  top: 40px;
+  left: 220px;
+  width: 300px;
+  height: 200px;
+  z-index: -1;
+}
+#tvimg {
+  position: relative;
+}
+.qq {
+  background-color: black;
+  border: 1px solid gray;
+
+  width: fit-content;
+  border-radius: 12px;
+  position: absolute;
+  top: 260px;
+  left: 250px;
+}
 .tv {
   position: relative;
+  z-index: 2;
 }
 .vid {
   position: absolute;
-  height: 300px;
+  height: 200px;
 
   width: 350px;
 
-  top: 45px;
+  top: 90px;
   left: 200px;
+  z-index: -1;
 }
 .as {
   background-color: black;
   color: white;
 }
 .sdf {
-  height: 650px;
+  height: 850px;
   background-color: black;
 }
 .xef {
   margin: 0;
   background-color: black;
   color: white;
+}
+.hero-minwin {
+  font-size: 1.15rem;
+  font-weight: 450px;
+  color: rgb(82, 79, 79);
+}
+.ques {
+  margin: 10px;
+}
+.mno {
+  background-color: rgb(93, 91, 91);
+  color: white;
+}
+.footersec {
+  height: 400px;
+  background-color: black;
+  padding: 50px;
+}
+.foot li {
+  list-style: none;
+}
+.foot li a {
+  text-decoration: none;
+  color: rgb(93, 92, 92);
 }
